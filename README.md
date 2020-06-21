@@ -1,2 +1,1 @@
-# aws-lambda-groovy
-AWS Lambda in Groovy
+# AWS Lambda in Groovy
